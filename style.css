@@ -1,0 +1,62 @@
+body
+{
+    background-image: url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg");
+    background-position: center;
+    background-size: cover;
+	font-weight: 900;
+}
+#myCanvas{
+	margin-left: 30px;
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h1 {
+	border-radius: 10px;
+	padding: 5px;
+	color:darkgreen !important;
+	font-weight: 900 !important;
+	font-size: 50px !important;
+ }
+h3{
+	display: inline-block;
+}
+#info h3{
+	margin:10px;
+	font-weight: 500;
+}
+#headInfo
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+	background-color: red;
+	color:white;
+}
+
+#sessao{
+	display: flex;
+	margin:auto;
+}
+ul{
+	background-color: #ffffffee;
+	border-radius: 30px;
+	color:black;
+	margin: 30px;
+	width:600px;
+	margin:auto;
+	
+}
+
+b{
+	font-size: 25px;
+	color:red;
+}
+ul{
+	list-style:square;
+}
+
+#titulo b{
+	color:green
+}
